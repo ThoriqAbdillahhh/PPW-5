@@ -38,7 +38,7 @@ Accept: application/json
 ###
 
 ### 5. PUT Perbarui Data Mahasiswa Berdasarkan ID
-PUT http://localhost:8000/prakPemweb5/Thoriq_Judul5/PPW-5/api/mahasiswa.php?id=1
+PUT http://localhost/prakPemweb5/Thoriq_Judul5/PPW-5/api/mahasiswa.php?id=1
 Content-Type: application/json
 Accept: application/json
 
@@ -53,6 +53,6 @@ Accept: application/json
 ###
 
 ### 6. DELETE Hapus Data Mahasiswa Berdasarkan ID
-DELETE http://localhost:8000/prakPemweb5/Thoriq_Judul5/PPW-5/api/mahasiswa.php?id=4
+DELETE http://localhost/prakPemweb5/Thoriq_Judul5/PPW-5/api/mahasiswa.php?id=4
 Accept: application/json
 
